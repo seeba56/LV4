@@ -1,0 +1,6 @@
+C:\Users\seba\source\repos\LV4\LV4\bin\Debug\LV4.exe.config
+C:\Users\seba\source\repos\LV4\LV4\bin\Debug\LV4.exe
+C:\Users\seba\source\repos\LV4\LV4\bin\Debug\LV4.pdb
+C:\Users\seba\source\repos\LV4\LV4\obj\Debug\LV4.exe
+C:\Users\seba\source\repos\LV4\LV4\obj\Debug\LV4.pdb
+C:\Users\seba\source\repos\LV4\LV4\obj\Debug\LV4.csprojAssemblyReference.cache

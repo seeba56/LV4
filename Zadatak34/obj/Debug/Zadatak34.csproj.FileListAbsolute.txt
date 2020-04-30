@@ -1,0 +1,5 @@
+C:\Users\seba\source\repos\LV4\Zadatak34\bin\Debug\Zadatak34.exe.config
+C:\Users\seba\source\repos\LV4\Zadatak34\bin\Debug\Zadatak34.exe
+C:\Users\seba\source\repos\LV4\Zadatak34\bin\Debug\Zadatak34.pdb
+C:\Users\seba\source\repos\LV4\Zadatak34\obj\Debug\Zadatak34.exe
+C:\Users\seba\source\repos\LV4\Zadatak34\obj\Debug\Zadatak34.pdb
